@@ -10,3 +10,6 @@ https://boguz.github.io/Spinners/  Loading screen animation, tarvittaessa jotain
 http://imagehover.io/  Image hover, apuja kuvatekstin näyttävämpään esillepanoon<br>
 http://bulma.io/ Framework,  ilmainen css framework, joka perustuu flexboxiin<br>
 http://tachyons.io/ Framework, hyviä esimerkkejä mitenkä tietyt komennot toimivat<br>
+
+
+<img src="https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K8504/blob/master/ElectroluxLogo.svg">
