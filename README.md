@@ -13,3 +13,4 @@ http://tachyons.io/ Framework, hyviä esimerkkejä mitenkä tietyt komennot toim
 
 
 <img src="https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K8504/blob/master/ElectroluxLogo.svg">
+<img src="https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K8504/blob/master/LGlogo1.1.svg">
